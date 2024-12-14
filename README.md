@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Shruti Sawant – Innovator, Dreamer, Software Developer</h1>
+<h1>Hi 👋, I'm Shruti Sawant – Innovator, Dreamer and         Software Developer</h1>
 <h2>A Passionate Coder with Innovation, Lifelong Learner and Bringing Imagination to Life Through Software</h2>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
